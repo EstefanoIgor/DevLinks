@@ -1,0 +1,6 @@
+ --text-color: black;
+  --bg-url: #dfe3ee;
+  --botoes: rgb(0, 0, 0);
+  --press-botao: rgb(255, 255, 255);
+  --social-hover: rgba(0, 0, 0, 0.233);
+  --switch-bg: url(./assets/assets/sun.svg)

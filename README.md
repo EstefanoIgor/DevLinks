@@ -19,7 +19,7 @@ Meu primeiro projeto realizado na área de programação. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.png" width="100%">
+  <img alt="projeto DevLinks" src="![preview](https://github.com/EstefanoIgor/DevLinks/assets/137211565/d354b54b-aec9-42be-8230-31ca9df439da)" width="100%">
 </p>
 
 ## 🚀 Tecnologias

@@ -18,7 +18,7 @@ body * {
   color: var(--text-color);
 }
 html, body {
- overflow: hidden;
+ overflow: auto;
 }
 :root {
   --text-color: white;
